@@ -1,0 +1,25 @@
+.section{
+    border: 1px solid #D5D0CF;
+    border-radius: 2px;
+    margin-left: 485px;
+    margin-top: 30px;
+    display:flex;
+}
+.estado{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.historia{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 60px;
+    height: 60px;
+    border: 2px solid rgba(255, 0, 149, 0.431);
+    background: linear-gradient(36deg, rgb(255,201,0) 20%, rgb(255,0,95) 73%, rgb(255,9,237)100%);
+    border-radius:50%;
+}
+.username{
+    text-align: center;
+    margin-top: 0%;
+    margin-left: 15px;
+}

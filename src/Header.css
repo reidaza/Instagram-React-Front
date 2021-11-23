@@ -1,0 +1,60 @@
+.Header{
+    margin-top: 15px;
+    display: flex;
+}
+
+.Logo{
+    flex: auto;
+    margin-left: 483px; 
+}
+
+.Search{
+    border:#D5D0CF 1px solid;
+    border-radius: 7%;
+    max-width: 212px;
+    margin-right: 160px;
+    color: grey;
+    flex: auto;
+    display: flex;
+    height: 25px;
+    align-items: center;
+    position: relative;
+}
+
+.IconSearch{
+    position: absolute;
+    top: 50;
+    left: 30%;
+}
+.TextBox{
+    width: 100%;
+    text-align: center;
+    border: none;
+    outline: none;
+}
+
+.Icons{
+    justify-content: space-between;
+    margin-right: 500px;
+    width: 200px;
+    display: flex;
+    
+}
+
+.IconMessage{
+    position: relative;   
+}
+
+.IconMessage::after{
+    position: absolute;
+    content: "9+";
+    font-size: 13px;
+    color: aliceblue;
+    width: 18px;
+    height: 18px;
+    background: red;
+    border: red 1px solid;
+    border-radius: 50%;
+    left: 15px;
+    top: -10px;
+}

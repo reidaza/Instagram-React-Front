@@ -1,0 +1,21 @@
+.Contenedor{
+  display: flex;
+}
+
+.Header{
+  border: 1px solid #D5D0CF;
+  border-top: none;
+  height: 38px;
+}
+
+.Article{
+  border: 1px solid #D5D0CF;
+  margin-top: 23px;
+  margin-left: 485px;
+  width: 614px;
+  height: 952px;
+}
+
+.section{
+  width: 614px;
+}

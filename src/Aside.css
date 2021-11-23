@@ -1,0 +1,89 @@
+.contenedoraside{
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 293px;
+    height: 450px;
+}
+
+.user{
+    height: 60px;
+    display: flex;
+}
+
+.imagen{
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+}
+
+.contuser{
+    margin-top: -10px;
+}
+.usuario{
+    font-weight: 500;
+}
+.nombreuser{
+    color: #b5b5b5;
+    margin-top: -15px;
+    margin-left: 15px;
+}
+.txtcambiar{
+    font-size: 12px;
+    margin-left: 70px;
+    margin-top: 15px;
+    font-weight: 500;
+    color: #2ea7f6;
+}
+
+
+.sugerencias{
+    display: flex;
+}
+.txtsuge{
+    color: #a9a9a9;
+}
+.txtvertodo{
+    font-weight: 600;
+    font-size: 13px;
+    margin-left: 90px;
+    margin-top: 20px;
+}
+
+.otheruser{
+    display: flex;
+}
+
+.SugImagen{
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    border: 2px solid rgba(255, 0, 149, 0.431);
+    background: linear-gradient(36deg, rgb(255,201,0) 20%, rgb(255,0,95) 73%, rgb(255,9,237)100%);
+}
+.Sugcontuser{
+    margin-top: -15px;
+}
+.Sugusuario{
+    font-weight: 500;
+    margin-left: 15px;
+    font-size: 14px;
+}
+.Sugnombreuser{
+    color: #b5b5b5;
+    margin-top: -15px;
+    margin-left: 15px;
+    font-size: 12px;
+}
+
+.Sugseguir{
+    font-size: 12px;
+    margin-left: 45px;
+    margin-top: 15px;
+    font-weight: 600;
+    color: #2ea7f6;
+}
+
+.footer{
+    font-size: 11px;
+    color: #C7C7C7;
+}
